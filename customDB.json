@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "26/1/2021",
+      "time": "17:30",
+      "reminder": false
+    },
+    {
+      "text": "Walk BarkBark",
+      "day": "2021-01-23",
+      "time": "15:30",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Sumbit Essay",
+      "day": "2021-02-11",
+      "time": "23:53",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Empty the shed",
+      "day": "2021-02-20",
+      "time": "15:00",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Do Laundry",
+      "day": "2021-01-23",
+      "time": "12:18",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
